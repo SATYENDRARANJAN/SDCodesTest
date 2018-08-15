@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="screen_padding">20</dimen>
+    <dimen name="_10sdp">10</dimen>
+    <dimen name="_40sdp">40</dimen>
+    <dimen name="padding_regular">4</dimen>
+</resources>

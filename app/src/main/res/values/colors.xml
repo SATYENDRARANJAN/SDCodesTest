@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="lapis_lazui">#3B5998</color>
+    <color name="carmine_pink">#DE4B3E</color>
+    <color name="white">#ffffff</color>
+    <color name="manatee">#999999</color>
+    <color name="rifle_green">#3D3D3D</color>
+    <color name="bleu_de_france">#4585F2</color>
+    <color name="silver">#BBBBBB</color>
+    <color name="dim_gray">#6E6E6E</color>
+    <color name="pastel_gray">#CCCCCC</color>
+    <color name="white_smoke">#F7F7F7</color>
+    <color name="white_smoky">#F4F4F4</color>
+    <color name="medium_sea_green">#4BB265</color>
+    <color name="mantis">#71BF45</color>
+    <color name="payne_gray">#FF546E7A</color>
+    <color name="saint_patrick_blue">#FF1E376E</color>
+    <color name="Rifle_green">#3d3d3d</color>
+    <color name="taupe">#3b3b3b</color>
+    <color name="pumpkin">#ff6d15</color>
+    <color name="dark_spring_green">#25732e</color>
+    <color name="ghost_white">#FFF6F9FE</color>
+    <color name="isabelline">#FFEEEEEE</color>
+    <color name="dar_green">#029008</color>
+    <color name="black">#000000</color>
+    <color name="ash_grey">#b9b9b9</color>
+    <color name="red">#ff0000</color>
+    <color name="munsell">#F2F4F7</color>
+    <color name="light_gray">#FFD2D4D7</color>
+    <color name="pastel_purple">#FFABA7BC</color>
+    <color name="oxford_blue">#132245</color>
+    <color name="verdigris">#44b3c2</color>
+    <color name="india_yellow">#f1a94e</color>
+    <color name="teal_blue">#2488a0</color>
+    <color name="pearl_aqua">#6ccecb</color>
+    <color name="pastel_blue">#b6b8de</color>
+    <color name="atomic_tangerine">#ff9561</color>
+    <color name="gainsboro">#dae0e2</color>
+    <color name="outer_space_1">#474849</color>
+    <color name="vermilion">#df453a</color>
+    <color name="liver">#4D4D4D</color>
+    <color name="royal_blue">#3e6dd9</color>
+    <color name="dark_pastel_green">#00aa2d</color>
+    <color name="davy_grey">#555555</color>
+    <color name="cornell_red">#b71c1c</color>
+    <color name="cadet_grey">#929db7</color>
+    <color name="glitter_2">#e2eaef</color>
+    <color name="outer_space">#444444</color>
+    <color name="blizzard_blue">#ADDCFA</color>
+    <color name="kelly_green">#50a222</color>
+    <color name="candy_pink">#FFDD7474</color>
+    <color name="ginger">#FFC36E0B</color>
+    <color name="orange_peel_1">#40FF9C00</color>
+    <color name="princeton_orange">#FF9600</color>
+    <color name="ku_crimson">#EF0404</color>
+    <color name="light_silver">#F2F4F7</color>
+    <color name="ucla_blue">#5f6b8d</color>
+    <color name="silver_2">#C3C3C4</color>
+    <color name="orange_peel">#ff9800</color>
+    <color name="india_green">#0f7f12</color>
+</resources>
+
+

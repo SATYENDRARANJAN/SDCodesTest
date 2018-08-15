@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SDProject</string>
+    <string name="user_api">http://sd2-hiring.herokuapp.com/api/users</string>
+    <string name="tap_to_reload">Tap To Reload</string>
+</resources>

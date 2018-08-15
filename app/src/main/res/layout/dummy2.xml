@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:paddingTop="@dimen/_10sdp"
+    android:padding="@dimen/_10sdp">
+
+    <ImageView
+        android:id="@+id/ivFb"
+        android:layout_width="@dimen/_40sdp"
+        android:layout_height="@dimen/_40sdp"
+        android:background="@color/isabelline"
+        android:clickable="false"
+        android:padding="@dimen/_10sdp"
+        app:layout_constraintHorizontal_chainStyle="spread"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/placeholder"
+        tools:ignore="ContentDescription" />
+
+    <TextView
+        android:id="@+id/tvFacebook"
+        android:layout_width="0dp"
+        android:layout_height="@dimen/_40sdp"
+        android:background="@color/colorAccent"
+        android:clickable="false"
+        android:gravity="center"
+        android:paddingBottom="@dimen/padding_regular"
+        android:paddingTop="@dimen/padding_regular"
+        android:text="nullfdsfadsfsdfdsf"
+        app:layout_constraintHorizontal_chainStyle="spread"
+        app:layout_constraintLeft_toRightOf="@+id/ivFb"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <ImageView
+        android:id="@+id/ivTwitter"
+        android:layout_width="@dimen/_40sdp"
+        android:layout_height="@dimen/_40sdp"
+        android:background="@color/ash_grey"
+        android:clickable="false"
+        android:padding="@dimen/_10sdp"
+        app:layout_constraintHorizontal_chainStyle="spread"
+        app:layout_constraintLeft_toRightOf="@+id/tvFacebook"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_launcher_background"
+        tools:ignore="ContentDescription,VectorDrawableCompat" />
+
+    <TextView
+        android:id="@+id/tvTwitter"
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        android:background="@color/bleu_de_france"
+        android:clickable="false"
+        android:gravity="center"
+        android:paddingBottom="8dp"
+        android:paddingTop="8dp"
+        android:text="action_twitter"
+        app:layout_constraintHorizontal_chainStyle="spread"
+        app:layout_constraintLeft_toRightOf="@+id/ivTwitter"
+        app:layout_constraintTop_toTopOf="parent" />
+</android.support.constraint.ConstraintLayout>
